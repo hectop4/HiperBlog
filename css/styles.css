@@ -24,6 +24,10 @@ font-size: 16px;
    padding: 0.5em;
    font-weight: bold;
 }
+#cabecera #logo{
+   width: 20px;
+   vertical-align: middle;
+}
 #cabecera #tagline{
    margin: 0 0 0 1em;
    font-weight: normal;
@@ -31,4 +35,5 @@ font-size: 0.8em;
 }
 #post{
    padding: 1em;
+   background-color: white;
 }
