@@ -6,3 +6,4 @@ Un blog increible
 - Creado por el increible yo
 - De momento no se que decir
 - Ejemplos en linuxs
+- Para todas las edades
